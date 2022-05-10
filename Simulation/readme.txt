@@ -1,0 +1,1 @@
+All code was written by me, except most part of the class creation (I added some minor functionalities to be able to pass more arguments), as it had to be relatively uniform for every group doing the project to ensure a correct output.
