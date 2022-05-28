@@ -1,0 +1,1 @@
+This is a dock selection problem. It is indeed quite a simple optimization problem but its purpose was more to get started using PuLP than it was to tackle a complex optimization system. The more complex optimization problems I worked on are not publically available, but if you'd like to see them, please do contact me!
